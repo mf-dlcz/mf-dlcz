@@ -1,4 +1,5 @@
 # 💫 About Me:
+Welcome 👋🏼
 I'm continuing to learn JS
 
 
