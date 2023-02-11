@@ -10,3 +10,5 @@ I'm continuing to learn JS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mf-dlcz&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mf-dlcz&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=mf-dlcz&icon=2&color=6)](https://visitcount.itsvg.in)
+
