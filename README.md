@@ -1,6 +1,7 @@
 # 💫 About Me:
 Welcome 👋🏼 <br />
-I'm continuing to learn JS
+I'm continuing to learn JS.
+Always looking for opportunities to grow and learn 
 
 
 # 💻 Tech Stack:
