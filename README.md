@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome 👋🏼 <br />
-I'm continuing to learn JS & I always look for opportunities to grow and learn. <br />
+I'm continuing to learn JS & I always look for opportunities to grow🌿 and learn👩🏽‍💻. <br />
 -Thanks🖤
 
 
